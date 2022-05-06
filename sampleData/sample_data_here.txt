@@ -1,0 +1,1 @@
+Put sample data in this folder, videos in mp4 or avi format, images in jpg or png format.
